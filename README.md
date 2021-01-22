@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/TheBeeProgrammer](https://github.com/TheBeeProgrammer)
 
-- 💬 Ask me about **Kotlin, Java, TypeScript**
+- 💬 Ask me about **Kotlin, Java, TypeScript, NodeJs, Python**
 
 - 📫 How to reach me **renatogc1996@gmail.com**
 
